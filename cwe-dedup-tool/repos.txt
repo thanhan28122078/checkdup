@@ -1,0 +1,9 @@
+# Moi dong 1 repo (owner/name). Dong bat dau bang # se bi bo qua.
+# Top theo so CVE trong CWE-Bench-Java:
+apache/jspwiki          # 6 CVE
+xwiki/xwiki-commons     # 5 CVE
+keycloak/keycloak       # 5 CVE
+# Hai vi tri con lai dang hoa (3 repo cung 4 CVE) - bo # o 2 dong ban chon:
+DSpace/DSpace             # 4 CVE
+apache/dolphinscheduler   # 4 CVE
+nahsra/antisamy           # 4 CVE

@@ -1,0 +1,7 @@
+repo,cve_with_units,units,pairs,L1_strict,L1_loose,L2_AST,L2_Near95,L2_Near90,dup_pairs_total,dup_intra_cve,dup_inter_cve,rc_groups(>=2 method),rc_groups_span_>=2_CVE,units_in_rc_groups,status
+apache/jspwiki,6,15,91,0,0,0,0,0,0,0,0,1,1,7,ok
+xwiki/xwiki-commons,5,7,15,0,0,0,0,0,0,0,0,1,0,2,ok
+keycloak/keycloak,5,21,102,0,0,0,0,0,0,0,0,5,1,11,ok
+DSpace/DSpace,4,10,24,0,0,0,0,1,1,1,0,1,1,5,ok
+apache/dolphinscheduler,3,10,21,0,0,0,0,0,0,0,0,2,0,7,ok
+nahsra/antisamy,4,9,36,0,0,1,0,0,1,1,0,3,1,8,ok
